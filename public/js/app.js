@@ -1,5 +1,3 @@
-console.log('This is the client side javascript');
-
 // fetch('http://localhost:3000/weather?address=chicago').then(res => {
 //   res.json().then(data => {
 //     if (data.error) {
